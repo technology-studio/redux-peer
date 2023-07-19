@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/technology-studio/redux-peer/compare/v1.0.0...v1.0.1) (2023-07-19)
+
+
+### Bug fixes
+
+* **deps:** update eslint txo packages ([ab079d0](https://github.com/technology-studio/redux-peer/commit/ab079d0aa29feada8a1ed2d40203ac92463f6aaa))
+
 ## 1.0.0 (2022-10-19)
 
 
