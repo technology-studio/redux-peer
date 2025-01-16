@@ -4,5 +4,4 @@
  * @Copyright: Technology Studio
 **/
 
-// eslint-disable-next-line @typescript-eslint/no-empty-interface
-export interface DefaultRootState {}
+export interface DefaultRootState { }
