@@ -1,6 +1,6 @@
 {
   "name": "@txo-peer-dep/redux",
-  "version": "1.0.1",
+  "version": "0.0.0-development",
   "description": "Technology Studio - Redux peer",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -35,7 +35,7 @@
     "lint:ci": "yarn eslint -c eslint-ci.config.js --cache . && yarn txo-eslint ccr --cache",
     "type-check": "tsc --noEmit"
   },
-  "dependencies": { },
+  "dependencies": {},
   "devDependencies": {
     "@txo-peer-dep/log": "^4.0.4",
     "@txo/commitlint": "^1.1.7",
